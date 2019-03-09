@@ -1,0 +1,10 @@
+.todoapp {
+  margin: 200px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content:  space-between;
+  padding: 2em;
+  background-color: rgba(0,0,0,0.8);
+}

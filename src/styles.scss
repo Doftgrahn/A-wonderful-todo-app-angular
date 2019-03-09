@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  color:white;
+}
+
+input {
+  color:black;
+}
+
+
+h1 {
+  color:white;
+}
+
+body {
+  background-image: url("./assets/pic.jpg");
+  background-repeat: no-repeat;
+  background-size:  cover;
+  min-height:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
